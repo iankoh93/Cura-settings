@@ -7,3 +7,6 @@ The default cura settings for all the printers in UBC Rapid
 3. cl0ned MK2
 4. clo0ned MK1
 5. Lazarus
+
+
+The best way to update your cura setting files is to delete your current setting before importing the new setting over. If you try and import a setting with the same name as your current setting it will be forced to make a duplicate with a #2 appended which is messy and requires you to remame it.
